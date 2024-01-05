@@ -1,0 +1,132 @@
+# Jeux de rôle sur table
+## C'est quoi ?
+Un jeu de rôle est un jeu où les participants endossent des rôles fictifs et interprètent des personnages au sein d'un monde imaginaire. Ces jeux se déroulent souvent autour d'une histoire ou d'un scénario élaboré par un maître du jeu ou un système de règles. Les joueurs prennent des décisions pour leurs personnages en fonction de leurs caractéristiques, de leurs compétences et des événements qui se déroulent dans le jeu. Les interactions entre les personnages et le développement de l'histoire sont souvent laissés à l'imagination des participants, ce qui permet une grande liberté créative et une immersion dans un univers fictif.
+
+
+
+![Entre amis](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Table_de_jeu_de_r%C3%B4le.jpg/440px-Table_de_jeu_de_r%C3%B4le.jpg)
+
+
+### Explication générale:
+1. Maître du jeu et scénario
+Un participant, appelé maître du jeu (MJ) ou maître de jeu, est responsable de diriger l'histoire, de créer le monde dans lequel évoluent les personnages et de jouer le rôle des personnages non joueurs (PNJ).
+Le MJ élabore un scénario ou une aventure pour les joueurs, qui peut inclure des quêtes, des énigmes, des combats, etc.
+2. Création des personnages
+Chaque joueur crée un personnage en définissant ses caractéristiques, compétences, histoire, motivations et traits distinctifs selon les règles du jeu.
+3. Interaction et narration
+Les joueurs interagissent entre eux et avec le monde fictif en prenant des décisions pour leur personnage. Ils décrivent leurs actions et dialogues en fonction de ce que ferait ou dirait leur personnage.
+4. Utilisation de règles et de dés
+Certains jeux de rôle utilisent des règles spécifiques pour déterminer le succès ou l'échec des actions des personnages. Ces règles peuvent impliquer l'utilisation de dés pour introduire un élément aléatoire dans les résultats des actions.
+5. Développement de l'histoire :
+L'histoire progresse en fonction des actions et des décisions des joueurs. Le MJ réagit aux choix des joueurs et fait évoluer l'aventure en conséquence.
+6. Les joueurs s'immergent dans leurs personnages et utilisent leur imagination pour contribuer à l'histoire et au monde fictif dans lequel ils évoluent.
+7. Les séances de jeu se répètent généralement avec des épisodes ou des sessions, formant ainsi une campagne plus longue où les personnages évoluent et l'histoire se développe au fil du temps.
+Chaque jeu de rôle a ses propres règles spécifiques et son ambiance. Certains se concentrent davantage sur l'action et le combat, tandis que d'autres mettent l'accent sur la narration et la résolution de problèmes. L'objectif principal est de s'amuser et de partager une expérience collective immersive dans un monde fictif.
+
+![Lancer les Dés](https://blog.colonist.io/content/images/2020/09/Rolling-Dice.jpg)
+***
+|Dice|
+|-----|
+|D4| 
+|D6|
+|D8|
+|D10|
+|D12|
+|D20|
+
+*Il existe d'autre type de Dé autre que ceux lister ci-dessus*
+
+### Si possible à éviter:
+1. ~~Dominer la narration~~ :
+Évitez de monopoliser l'attention en prenant trop de place dans l'histoire ou en dirigeant les actions des autres joueurs sans leur laisser de liberté.
+2. Ignorer les autres joueurs :
+Ne pas tenir compte des actions, des idées ou des suggestions des autres joueurs peut nuire à la collaboration et à l'immersion collective.
+3. Non-respect du cadre et des règles :
+Ne pas respecter les règles du jeu ou l'univers établi peut déstabiliser l'expérience pour tout le monde. Respectez les règles convenues et l'univers proposé.
+4. Interférer avec le plaisir des autres :
+Évitez de rendre l'expérience désagréable pour les autres joueurs en agissant de manière hostile, en monopolisant les ressources ou en rendant l'aventure désagréable sans raison valable.
+5. Refuser la collaboration :
+Le jeu de rôle est collaboratif. Refuser de coopérer ou de s'engager avec les autres joueurs peut compromettre l'expérience pour tout le groupe.
+6. Oublier le fair-play :
+Gardez à l'esprit l'équilibre entre le jeu compétitif et la coopération. Ne pas respecter le fair-play peut créer des tensions et nuire à l'expérience collective.
+7. Ne pas respecter les limites personnelles :
+Les jeux de rôle peuvent aborder des sujets sensibles. Il est important de respecter les limites personnelles des autres joueurs et d'éviter de rendre l'expérience inconfortable pour quelqu'un.
+8. Coupures constantes de l'immersion :
+Évitez les distractions constantes qui rompent l'immersion, comme l'utilisation excessive de dispositifs électroniques non liés au jeu pendant la session.
+En fin de compte, il s'agit de maintenir un environnement respectueux, collaboratif et amusant pour tous les participants. Communiquer ouvertement, respecter les autres joueurs et contribuer à l'histoire de manière positive sont des aspects clés pour une expérience de jeu de rôle enrichissante.
+
+
+**Exemple de Code**
+ ```<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69958365-6"></script>
+    <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-69958365-6');
+    </script>
+    <!-- Auto ads - Google -->
+    <script data-ad-client="ca-pub-3427355473051563" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="canonical" href="https://en.markdown.net.br/basic-syntax/">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="author" content="Robert Salles">
+    <meta name="description" content="How to format headings, paragraphs, lists and more. The essential Markdown guide for every programmer. ✓ Easy ✓ Simple ✓ Fast & ✓ Free.">
+    <meta name="twitter:card" content="summary">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://en.markdown.net.br/basic-syntax/">
+    <meta property="og:title" content="Markdown® Basic: Syntax, Usage & Examples [Step by Step]">
+    <meta property="og:description" content="How to format headings, paragraphs, lists and more. The essential Markdown guide for every programmer. ✓ Easy ✓ Simple ✓ Fast & ✓ Free.">
+    <meta property="og:image" content="https://markdown.net.br/assets/img/markdown.jpg">
+
+    <title>Markdown® Basic: Syntax, Usage & Examples [Step by Step]</title>
+    <!-- Favicons-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2196f3">
+    <meta name="msapplication-TileColor" content="#2196f3">
+    <!--  Android 5 Chrome Color-->
+    <meta name="theme-color" content="#2196f3">
+    <!-- CSS-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" href="https://markdown.net.br/assets/css/bundle.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.20.0/plugins/show-invisibles/prism-show-invisibles.min.css" integrity="sha256-nOfkEPu/TzBvIxN8D/vW8weOUczzDbxRjgik/hA2hBI=" crossorigin="anonymous" />
+    <style type="text/css">
+    	.mv-40 {
+    		margin-top: 40px;
+    		margin-bottom: 40px;
+    	}
+
+    	img[src=""],
+    	img:not([src]) {
+    	  visibility: hidden;
+    	}
+
+    	.caption {
+    	    display: flex;
+    	    justify-content: center;
+    	    align-items: center;
+    	    margin: 10px 0;
+    	    color: hsl(0deg 0% 33%);
+    	    font-style: italic;
+    	    font-size: 75%;
+    	}
+
+    	picture {
+    		display: block;
+    		position: relative;
+    	}
+
+    	.cover-link {
+    		position: absolute;
+    		top: 0;
+    		bottom: 0;
+    		left: 0;
+    		right: 0;
+    	}
+    </style>
+  </head>
